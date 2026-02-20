@@ -24,7 +24,7 @@ a {
   text-decoration: none;
   font-weight: 600;
 
-  transition: filter 0.25s;
+  transition: filter 0.5s cubic-bezier(0, 0.55, 0.45, 1);
   filter: drop-shadow(0 0 8px #ffffff00) drop-shadow(0 0 16x #ffffff00);
 }
 
